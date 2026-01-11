@@ -17,7 +17,7 @@ Flutter Tune is an interactive application that transforms your phone screen int
 ## 🎬 Demo Video
 
 <!-- Add video link here -->
-[Watch Demo Video](your_video_link_here)
+[Watch Demo Video](https://github.com/user-attachments/assets/a02e13a9-a108-416b-8b02-2481bb1948a2)
 
 Or you can add the video directly:
 
@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/a02e13a9-a108-416b-8b02-2481bb1948a2
 <!-- Add screenshots here -->
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](assets/screenshots/home_screen.png)
 
 
 
@@ -137,12 +137,6 @@ Contributions are welcome! If you'd like to contribute:
 
 This project is licensed under the [MIT License](LICENSE)
 
-## 👨‍💻 Developer
-
-**Your Name**
-
-- GitHub: [@username](https://github.com/username)
-- Email: your.email@example.com
 
 ## 🙏 Acknowledgments
 

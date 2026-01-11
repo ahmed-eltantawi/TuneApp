@@ -21,10 +21,6 @@ Flutter Tune is an interactive application that transforms your phone screen int
 https://github.com/user-attachments/assets/a02e13a9-a108-416b-8b02-2481bb1948a2
 
 
-```markdown
-![Flutter Tune Demo](assets/demo.gif)
-```
-
 ## 📸 Screenshots
 
 <!-- Add screenshots here -->

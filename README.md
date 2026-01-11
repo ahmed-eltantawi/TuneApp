@@ -21,6 +21,10 @@ Flutter Tune is an interactive application that transforms your phone screen int
 
 Or you can add the video directly:
 
+
+https://github.com/user-attachments/assets/a02e13a9-a108-416b-8b02-2481bb1948a2
+
+
 ```markdown
 ![Flutter Tune Demo](assets/demo.gif)
 ```
@@ -32,15 +36,7 @@ Or you can add the video directly:
 ### Home Screen
 ![Home Screen](screenshots/home_screen.png)
 
-### In Action
-![In Action](screenshots/playing.png)
 
-### On Different Devices
-<p float="left">
-  <img src="screenshots/screenshot1.png" width="200" />
-  <img src="screenshots/screenshot2.png" width="200" />
-  <img src="screenshots/screenshot3.png" width="200" />
-</p>
 
 ## 🛠️ Technologies Used
 
